@@ -1,3 +1,2 @@
-#This is mike adding a script to Sonja's project
-x < 10 ^ 2
+#This is mike adding a script to Sonja's project again
 y <- x/5
